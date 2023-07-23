@@ -4,7 +4,7 @@ Introduction:
 Welcome to the Fake News Detection project repository! In today's digital age, the proliferation of misinformation and fake news has become a significant challenge. To address this issue, we present a machine learning-based solution to detect fake news articles effectively. This project leverages state-of-the-art natural language processing (NLP) techniques and machine learning algorithms to distinguish between real and fabricated news.
 
 **Why Fake News Detection Matters:**
-The spread of fake news can have severe consequences, ranging from influencing public opinions to damaging reputations and even inciting violence. It is crucial to build robust mechanisms that can automatically identify and filter out false information from credible news sources. Our Fake News Detection project aims to contribute to this endeavor by providing a reliable tool for users and content platforms to verify the authenticity of news articles.
+The spread of fake news can have severe consequences, ranging from influencing public opinions to damaging reputations and even inciting violence. It is crucial to build robust mechanisms that can automatically identify and filter out false information from credible news sources. This Fake News Detection project aims to contribute to this endeavor by providing a reliable tool for users and content platforms to verify the authenticity of news articles.
 
 **Concepts and Libraries Utilized:**
 To create this Fake News Detection system, we have utilized several essential concepts and Python libraries:

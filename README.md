@@ -38,7 +38,7 @@ Our Fake News Detection project comprises the following key steps:
 
 4. **Model Training**: We split the dataset into training and testing sets using train_test_split from sklearn. Next, we select a suitable machine learning model (e.g., Logistic Regression, Naive Bayes) and train it on the training data.
 
-5. **Model Evaluation**: The trained model's performance is evaluated using various metrics from sklearn, such as accuracy, precision, recall, and F1-score. These metrics provide valuable insights into the model's effectiveness in detecting fake news.
+5. **Model Evaluation**: The trained model's performance is evaluated using accuracy metric from sklearn. This metric provides valuable insights into the model's effectiveness in detecting fake news.
 
 6. **Results and Conclusion**: The findings and the model's performance are summarized in the Jupyter notebook or Python script. Additionally, we discuss potential areas for improvement to enhance the fake news detection system further.
 
